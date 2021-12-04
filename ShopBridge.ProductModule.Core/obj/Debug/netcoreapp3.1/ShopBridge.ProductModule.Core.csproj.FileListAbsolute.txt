@@ -1,0 +1,12 @@
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\bin\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.exe
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\bin\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.deps.json
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\bin\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.runtimeconfig.json
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\bin\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.runtimeconfig.dev.json
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\bin\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.dll
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\bin\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.pdb
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\obj\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.AssemblyInfoInputs.cache
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\obj\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.AssemblyInfo.cs
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\obj\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.csproj.CoreCompileInputs.cache
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\obj\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.dll
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\obj\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.pdb
+D:\ShopBridge.ProductModule\ShopBridge.ProductModule.Core\obj\Debug\netcoreapp3.1\ShopBridge.ProductModule.Core.genruntimeconfig.cache
